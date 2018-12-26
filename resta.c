@@ -20,7 +20,7 @@ int main()
   scanf("%f", &a);
   printf(_("Introduce el segundo numero: \n"));
   scanf("%f", &b);
-  res = a - b;
+  res = a + b;
   printf(_("El resultado de la resta es: "));
   printf("%f", res);
   printf("\n");
